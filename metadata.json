@@ -1,0 +1,6 @@
+{
+  "name": "Mohoraga",
+  "description": "Personal Life OS & AI Command Center for learning, fitness, habits, and self-improvement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
